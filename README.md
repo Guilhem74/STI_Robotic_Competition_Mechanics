@@ -5,6 +5,8 @@ Github repository for the CAD for the STI INTERDISCIPLINARY ROBOT COMPETITION 20
 
 Team 5 : Green Eye, Winner of 2019 with 250 points. 
 
+Designed by AZZANO Guilhem,ERBACHER Pierre and PIQUET Anthony
+
 Most of the CAD design has been made by us with the exception of :
   - Sharp Sensor
   - Polulu Wheels
@@ -22,4 +24,3 @@ Real life picture :
 ![alt text](https://github.com/Guilhem74/STI_Robotic_Competition_Mechanics/blob/master/Pictures/RL_Bottom.jpg?raw=true)
 
 
-Designed by AZZANO Guilhem,ERBACHER Pierre and PIQUET Anthony
