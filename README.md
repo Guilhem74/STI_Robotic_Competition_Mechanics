@@ -1,7 +1,10 @@
-STI_Robotic_Competition_Mechanics
+
 [EPFL] Semester Project
+
 Github repository for the CAD for the STI INTERDISCIPLINARY ROBOT COMPETITION 2019 at EPFL.
+
 Team 5 : Green Eye, Winner of 2019 with 250 points. 
+
 Most of the CAD design has been made by us with the exception of :
   - Sharp Sensor
   - Polulu Wheels
