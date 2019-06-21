@@ -13,9 +13,9 @@ Most of the CAD design has been made by us with the exception of :
   - Raspberry Pi Board and STM32
   
 Render pictures :
-![alt text](https://github.com/Guilhem74/STI_Robotic_Competition_Mechanics/blob/master/Pictures/Back_Render.png?raw=true)
-![alt text](https://github.com/Guilhem74/STI_Robotic_Competition_Mechanics/blob/master/Pictures/Bottom_Render.png?raw=true)
-![alt text](https://github.com/Guilhem74/STI_Robotic_Competition_Mechanics/blob/master/Pictures/Front_Render.png?raw=true)
+![alt text](Pictures/Back_Render.png)
+![alt text](Pictures/Bottom_Render.png)
+![alt text](Pictures/Front_Render.png)
 
 
 Real life picture : 
